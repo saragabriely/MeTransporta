@@ -1,0 +1,36 @@
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\ClassLibrary\obj\Debug\ClassLibrary.pdb

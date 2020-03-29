@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Teste03.Views.LgMinhaContaa">
+
+    <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="{StaticResource Default}" >
+
+        <Grid RowSpacing="-1" ColumnSpacing="0" >
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition  Width="72" />
+                <ColumnDefinition  Width="72" />
+                <ColumnDefinition  Width="72" />
+                <ColumnDefinition  Width="72" />
+                <ColumnDefinition  Width="72" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions >
+                <RowDefinition Height="65"  />
+                <RowDefinition Height="454" />
+                <RowDefinition Height="50"  />
+            </Grid.RowDefinitions>
+
+            <!-- Me Transporta -->
+            <StackLayout  Orientation="Horizontal"           HeightRequest="90"  Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="5"
+                          HorizontalOptions="FillAndExpand"  VerticalOptions="Center" BackgroundColor="{StaticResource Blue}" Spacing="-15"   >
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition  Width="72" />
+                        <ColumnDefinition  Width="72" />
+                        <ColumnDefinition  Width="72" />
+                        <ColumnDefinition  Width="52" />
+                        <ColumnDefinition  Width="28" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="MeTransporta" TextColor="{StaticResource WhiteBtn}" FontSize="19" WidthRequest="100"
+                           VerticalTextAlignment="Center"  HorizontalTextAlignment="End"  VerticalOptions="Center"
+                           Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" />
+
+                    <Image Source="moving.png" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="33" WidthRequest="33"
+                           Grid.Column="3" Grid.Row="0"  />
+
+                </Grid>
+
+            </StackLayout>
+
+            <StackLayout Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5" Margin="20" Spacing="20" HorizontalOptions="Center" >
+
+                <!-- Botões -->
+
+                <Label Text="MINHA CONTA"  FontSize="16"   FontAttributes="Bold"  TextColor="{StaticResource Blue}" 
+                      HorizontalTextAlignment="Center"  VerticalTextAlignment="Center"  HeightRequest="60"  />
+
+                <!-- Stack - CLIENTE -->
+                <StackLayout x:Name="slCliente" IsVisible="False" Spacing="20" WidthRequest="300" >
+
+                    <!-- Btn - Meu Cadastro -->
+                    <Button x:Name="btnClienteMeuCadastro" Text="Meu Cadastro" Clicked="btnClienteMeuCadastro_Clicked" 
+                            BackgroundColor="{StaticResource Blue}" TextColor="{StaticResource White}"  FontSize="13"  />
+
+                    <!-- Btn - Dados de Pagamento -->
+                    <Button x:Name="btnClienteDadosBancarios" Text="Dados Bancários" Clicked="BtnDadosPagamento_Clicked" 
+                            BackgroundColor="{StaticResource Blue}" TextColor="{StaticResource White}"  FontSize="13" />
+
+                    <!-- Desativar cadastro -->
+                    <Button x:Name="btnClienteDesativarCadastro" Text="Desativar cadastro" Clicked="BtnVeiculos_Clicked" 
+                            BackgroundColor="{StaticResource Silver}" TextColor="{StaticResource Blue}" FontSize="13" />
+
+
+                    <!-- Btn - Sair -->
+                    <StackLayout x:Name="slClienteSair" IsVisible="True" HorizontalOptions="Center" >
+
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="BtnSair_Clicked" NumberOfTapsRequired="1" />
+                        </StackLayout.GestureRecognizers>
+
+                        <Image  Source="power.png"    VerticalOptions="CenterAndExpand"     HorizontalOptions="CenterAndExpand"
+                                    HeightRequest="30"   WidthRequest="30"  />
+
+                        <Label x:Name="lblClienteSair" Text="Sair" FontSize="14"  />
+
+                    </StackLayout>
+
+                </StackLayout>
+
+                <!-- Stack - MOTORISTA -->
+                <StackLayout x:Name="slMotorista" IsVisible="False" Spacing="13" WidthRequest="300" >
+
+                    <!-- Btn - Meu Cadastro -->
+                    <Button x:Name="btnMotoristaMeuCadastro" Text="Meu Cadastro" Clicked="BtnMeuCadastro_Clicked" FontSize="13"
+                            BackgroundColor="{StaticResource Blue}" TextColor="{StaticResource White}"  />
+                    
+                    <!-- Btn - Dados Bancários -->
+                    <Button x:Name="btnMotoristaDadosBancarios" Text="Dados Bancários" Clicked="BtnContaBancaria_Clicked" 
+                            BackgroundColor="{StaticResource Blue}" TextColor="{StaticResource White}" FontSize="13"  />
+
+                    <!-- Meus Veículos -->
+                    <Button x:Name="btnMotoristaVeiculos" Text="Meus Veículos" Clicked="BtnVeiculos_Clicked" 
+                            BackgroundColor="{StaticResource Blue}" TextColor="{StaticResource White}" FontSize="13"  />
+
+                    <!-- E-mail e senha - ->
+                    <Button x:Name="btnEmailESenha" Text="E-mail e senha" Clicked="BtnVeiculos_Clicked" 
+                            BackgroundColor="{StaticResource Blue}" TextColor="{StaticResource White}"  FontSize="13" /> -->
+
+                    <!-- Desativar cadastro -->
+                    <Button x:Name="btnMotoristaDesativarCadastro" Text="Desativar cadastro" Clicked="BtnVeiculos_Clicked" 
+                            BackgroundColor="{StaticResource Silver}" TextColor="{StaticResource Blue}" FontSize="13" />
+
+                    <!-- Btn - Sair -->
+                    <StackLayout x:Name="slMotoristaSair" IsVisible="True" HorizontalOptions="Center" >
+
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="BtnSair_Clicked" NumberOfTapsRequired="1" />
+                        </StackLayout.GestureRecognizers>
+
+                        <Image  Source="power.png"    VerticalOptions="CenterAndExpand"     HorizontalOptions="CenterAndExpand"
+                                    HeightRequest="30"   WidthRequest="30"  />
+
+                        <Label x:Name="lblMotoristaSair" Text="Sair" FontSize="14"  />
+
+                    </StackLayout>
+
+                </StackLayout>
+
+            </StackLayout>
+
+
+            <!-- HOME -->
+            <StackLayout Grid.Row="2"  Grid.Column="0" Spacing="-3" >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnHome_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="home.png"    VerticalOptions="CenterAndExpand"     HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"   WidthRequest="26"  />
+
+                <Label Text="Página Inicial" FontSize="10" VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center"  />
+
+            </StackLayout>
+
+            <!-- COLETAS -->
+            <StackLayout Grid.Row="2"  Grid.Column="1" Spacing="-3"  >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnColetas_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="car.png"     VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"   WidthRequest="26"   />
+
+                <Label Text="Coletas" FontSize="10" VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+
+            <!-- PESQUISAR -->
+            <StackLayout Grid.Row="2"  Grid.Column="2" Spacing="-3" IsVisible="False"  >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnPesquisar_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="pesquisar.png"     VerticalOptions="End"  HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"   WidthRequest="26"   />
+
+                <Label Text="Pesquisar" FontSize="10" VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+
+            <!-- CHAT -->
+            <StackLayout Grid.Row="2"  Grid.Column="2" Spacing="-3"  >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnChat_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="chat.png"     VerticalOptions="Center"  HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"   WidthRequest="26"   />
+
+                <Label Text="Chat" FontSize="10" VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+
+            <!-- ORÇAMENTOS -->
+            <StackLayout Grid.Row="2"  Grid.Column="3"  Spacing="-3" >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnOrcamentos_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="orcamentos.png"    VerticalOptions="CenterAndExpand"     HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"  WidthRequest="26"   />
+
+                <Label Text="Orçamentos" FontSize="10" VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+
+            <!-- MINHA CONTA -->
+            <StackLayout Grid.Row="2"  Grid.Column="4"  Spacing="-3">
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnMinhaConta_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="minhacontaB.png"  VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"    WidthRequest="26"   />
+
+                <Label Text="MinhaConta"   FontSize="10"  FontAttributes="Bold"      TextColor="{StaticResource Blue}"     
+                       VerticalOptions="StartAndExpand"  HorizontalTextAlignment="Center"     />
+
+            </StackLayout>
+
+        </Grid>
+
+    </AbsoluteLayout>
+
+</ContentPage>

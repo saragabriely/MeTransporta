@@ -1,0 +1,621 @@
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\ApplicationInsights.config
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll.config
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\WebAppTeste.pdb
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\csc.rsp
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe.config
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\csi.rsp
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.AppContext.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Console.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\vbc.rsp
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\EntityFramework.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Http.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\WebGrease.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll.config
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\EntityFramework.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Http.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.pdb
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CopyComplete
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\ApplicationInsights.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.AppContext.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Console.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\WebGrease.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CopyComplete
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 01.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\ApplicationInsights.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.AppContext.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Console.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\WebGrease.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CopyComplete
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 02.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\ApplicationInsights.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.AppContext.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Console.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\WebGrease.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CopyComplete
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 03.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\ApplicationInsights.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\WebAppTeste.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csc.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\csi.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.AppContext.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Console.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\vbc.rsp
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\WebGrease.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\ClassLibrary.dll.config
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.pdb
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CopyComplete
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.dll
+C:\Users\Sara\source\repos\WebAppTeste - 10 - 04.10.18\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.pdb
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\ApplicationInsights.config
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll.config
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\WebAppTeste.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\WebAppTeste.pdb
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\csc.exe.config
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\csc.rsp
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\csi.exe.config
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\csi.rsp
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.AppContext.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Console.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Compression.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Claims.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.ValueTuple.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\vbc.exe.config
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\vbc.rsp
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\EntityFramework.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Http.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Razor.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\WebGrease.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\EntityFramework.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\EntityFramework.SqlServer.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Newtonsoft.Json.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Net.Http.Formatting.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Helpers.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Http.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Http.WebHost.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Mvc.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Optimization.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.Razor.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Web.WebPages.Razor.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Antlr3.Runtime.pdb
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.AI.Web.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csprojAssemblyReference.cache
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CoreCompileInputs.cache
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.csproj.CopyComplete
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.dll
+C:\Users\sarag\Source\Repos\MeTransporta_Api\WebAppTeste\WebAppTeste\obj\Debug\WebAppTeste.pdb

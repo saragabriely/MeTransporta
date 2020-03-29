@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Teste03.Views.PaginaInicial">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!--Page Level Resources: Compatibile with Xamarin Live Player -->
+            <Color x:Key="Primary"       >#2196F3</Color>
+            <Color x:Key="Blue"          >#1b418a</Color>
+            <Color x:Key="Blue1"         >#000080</Color>
+            <Color x:Key="Blue2"         >#191973</Color>
+            <Color x:Key="BlueBtn"       >#3f51b5</Color>
+            <Color x:Key="Default"       >#f5f2f2</Color>
+            <Color x:Key="LightBlue"     >#b0dce8</Color>
+            <Color x:Key="LightTextColor">#999999</Color>
+            <Color x:Key="PinkBtn"       >#ff4081</Color>
+            <Color x:Key="PinkBtn2"      >#FF1493</Color>
+            <Color x:Key="PinkBtn3"      >#EE1289</Color>
+            <Color x:Key="Silver"        >#c4c4c6</Color>
+            <Color x:Key="White"         >#ffffff</Color>
+            <Color x:Key="WhiteBtn"      >#e8e8e8</Color>
+
+            <Image x:Key="logo" Source="images/logo.png" />
+
+        </ResourceDictionary>
+
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+
+        <StackLayout BackgroundColor="{StaticResource Blue}" >
+
+            <StackLayout Padding="20">
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition  Width="80"  />
+                        <ColumnDefinition  Width="115" />
+                        <ColumnDefinition  Width="125"  />
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions >
+                        <RowDefinition Height="275" />
+                        <RowDefinition Height="90"  />
+                    </Grid.RowDefinitions>
+
+                    <Label x:Name="lblTitulo" Text="Me Transporta" FontSize="55" Grid.Column="0" Grid.ColumnSpan="4" Grid.Row="0"
+                           TextColor="{StaticResource LightBlue}"     
+                           VerticalTextAlignment="Center" VerticalOptions="End" HorizontalOptions="CenterAndExpand"   />
+
+                    <Image Source="moving.png" VerticalOptions="Start" HorizontalOptions="Start" HeightRequest="100" WidthRequest="100"
+                           Grid.Column="2" Grid.Row="1"  />
+
+                </Grid>
+
+            </StackLayout>
+            
+            <!-- Botões -->
+            <StackLayout BackgroundColor="{StaticResource Silver}" Spacing="-3" >
+
+                <Button  x:Name="btnLogin"                  Text="Login"
+                         TextColor="{StaticResource White}" BackgroundColor="{StaticResource BlueBtn}"
+                         HeightRequest="54"
+                         Clicked="BtnLogin_Clicked"   />
+
+                <Button  x:Name="btnCadastrar"               Text="Cadastre-se"
+                         BackgroundColor="{StaticResource WhiteBtn}"
+                         HeightRequest="54"
+                         Clicked="BtnCadastreSe_Clicked"  />
+
+                <Button   x:Name="btnConhecerAplicativo"     Text="Conheça o Aplicativo"
+                          TextColor="{StaticResource White}" BackgroundColor="{StaticResource PinkBtn3}"
+                          HeightRequest="54"
+                          Clicked="BtnConhecerAplicativo_Clicked"    />
+
+            </StackLayout>
+            
+        </StackLayout>
+        
+    </ContentPage.Content>
+    
+</ContentPage>

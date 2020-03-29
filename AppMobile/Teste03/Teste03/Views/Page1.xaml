@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Teste03.Views.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="ID" />
+                <Entry x:Name="etId" Placeholder="ID" Keyboard="Numeric"  />
+            </StackLayout>
+            
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Descricao" />
+                <Entry x:Name="descricaoet" Placeholder="Descricao"  />
+            </StackLayout>
+
+            <Button Text="INSERIR"  TextColor="White"  BackgroundColor="Green" Clicked="Button_Clicked" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

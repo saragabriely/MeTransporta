@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Teste03.App">
+    
+	<Application.Resources>
+        
+        <ResourceDictionary>
+            
+            <!--Global Styles-->
+            <Color x:Key="NavigationPrimary">#1b418a</Color> <!-- #2196F3 -->
+            
+            <Style TargetType="NavigationPage">
+                <Setter Property="BarBackgroundColor" Value="{StaticResource NavigationPrimary}" />
+                <Setter Property="BarTextColor" Value="White" />
+            </Style>
+
+            <Color x:Key="Red"           >#FF0000</Color>
+            <Color x:Key="Primary"       >#2196F3</Color>
+            <Color x:Key="Blue"          >#1b418a</Color>
+            <Color x:Key="BlueBtn"       >#3f51b5</Color>
+            <Color x:Key="ClienteBtn"    >#3f51b5</Color>
+            <Color x:Key="Default"       >#f5f2f2</Color>
+            <Color x:Key="GreenBtn"      >#065315</Color>
+            <Color x:Key="LightBlue"     >#b0dce8</Color>
+            <Color x:Key="LightTextColor">#999999</Color>
+            <Color x:Key="MotoristaBtn"  >#e87a33</Color>
+            <Color x:Key="PinkBtn"       >#ff4081</Color>
+            <Color x:Key="RedAlert"      >#d20f0f</Color>
+            <Color x:Key="Silver"        >#c4c4c6</Color>
+            <Color x:Key="SilverBg"      >#e1dfdf</Color>
+            <Color x:Key="SilverText"    >#333333</Color>
+            <Color x:Key="White"         >#ffffff</Color>
+            <Color x:Key="WhiteBtn"      >#e8e8e8</Color>
+            <Color x:Key="SilverTxt"     >#8B8682</Color>
+            <Color x:Key="SilverBtn"     >#8B8989</Color> 
+
+        </ResourceDictionary>
+        
+    </Application.Resources>
+
+</Application>

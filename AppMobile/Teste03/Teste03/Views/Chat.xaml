@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Teste03.Views.Chat">
+
+    <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="{StaticResource Default}" >
+
+        <Grid RowSpacing="-1">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition  Width="85.4" />
+
+                <ColumnDefinition  Width="85.4" />
+
+                <ColumnDefinition  Width="85.4" />
+
+                <ColumnDefinition  Width="85.4" />
+
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions >
+                <RowDefinition />
+
+                <RowDefinition Height="469.5" />
+
+                <RowDefinition Height="50" />
+
+            </Grid.RowDefinitions>
+
+            <!-- Me Transporta -->
+            <StackLayout  Orientation="Horizontal"           HeightRequest="90"  Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="5"
+                          HorizontalOptions="FillAndExpand"  VerticalOptions="Center" BackgroundColor="{StaticResource Blue}" Spacing="-15"   >
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition  Width="72" />
+                        <ColumnDefinition  Width="72" />
+                        <ColumnDefinition  Width="72" />
+                        <ColumnDefinition  Width="52" />
+                        <ColumnDefinition  Width="28" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="MeTransporta" TextColor="{StaticResource WhiteBtn}" FontSize="19" WidthRequest="100"
+                           VerticalTextAlignment="Center"  HorizontalTextAlignment="End" 
+                           Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" />
+
+                    <Image Source="moving.png" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="25" WidthRequest="25"
+                           Grid.Column="3" Grid.Row="0"  />
+
+                </Grid>
+
+            </StackLayout>
+
+            <StackLayout Grid.Row="1"    Grid.Column="0" Grid.ColumnSpan="4" Margin="15">
+
+                <Label  Text="CHAT"  FontSize="16" FontAttributes="Bold"  TextColor="{StaticResource Blue}" 
+                                    HorizontalTextAlignment="Center"  VerticalTextAlignment="Center"  HeightRequest="60"  />
+
+                <Label Text="Perfil Cliente" FontAttributes="Bold" HorizontalTextAlignment="Center" />
+
+
+                <Entry WidthRequest="200" HeightRequest="100" Keyboard="Chat" BackgroundColor="{StaticResource LightBlue}" />
+                
+
+            </StackLayout>
+
+            <!-- HOME -->
+            <StackLayout Grid.Row="2"  Grid.Column="0" Spacing="-3" >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnHome_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="home.png"   VerticalOptions="CenterAndExpand"     HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"  WidthRequest="26"  />
+
+                <Label Text="Página Inicial"  FontSize="10" VerticalOptions="StartAndExpand"  HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+
+            <!-- CONHEÇA O APLICATIVO-->
+            <StackLayout Grid.Row="2"  Grid.Column="1" Spacing="-3"  >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnConhecerApp_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="car.png"     VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand"
+                                    HeightRequest="26"   WidthRequest="26"   />
+
+                <Label Text="Conheça o Aplicativo" FontSize="10" VerticalOptions="EndAndExpand"  HorizontalTextAlignment="Center"  />
+
+            </StackLayout>
+
+            <!-- CADASTRE-SE -->
+            <StackLayout Grid.Row="2"  Grid.Column="2"  Spacing="-3" >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnCadastreSe_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="add2.png"    VerticalOptions="CenterAndExpand"     HorizontalOptions="CenterAndExpand"
+                                    HeightRequest="26"   WidthRequest="26"   />
+
+                <Label Text="Cadastre-se" FontSize="10"  FontAttributes="Bold"          TextColor="{StaticResource Blue}"  
+                                    VerticalOptions="StartAndExpand"  HorizontalTextAlignment="Center"     />
+
+            </StackLayout>
+
+            <!-- LOGIN -->
+            <StackLayout Grid.Row="2"  Grid.Column="3"  Spacing="-3">
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnLogin_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="pessoa.png" VerticalOptions="CenterAndExpand"   HorizontalOptions="CenterAndExpand"
+                                    HeightRequest="26"  WidthRequest="26"   />
+
+                <Label Text="Login" FontSize="10"  VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center"  />
+
+            </StackLayout>
+
+        </Grid>
+        
+    </AbsoluteLayout>
+
+</ContentPage>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{2184B6B7-6F81-4524-A20F-23AF49C12AB6}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Teste03</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)App.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)ClassesComuns\ValidaCampos.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\AcompanhaController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\CartaoController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\ClienteController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\ColetaController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\ColetaVisualizaController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\ContaBancariaController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\LoginController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\MaterialController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\MotoristaController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\OrcamentoController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\StatusController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\TesteController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controllers\VeiculoController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\AcompanhaColeta.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\BaseDados.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\CartaoCredito.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Cliente.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Coleta.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ColetaVisualiza.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ContaBancaria.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\LoginModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Material.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Motorista.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Orcamento.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Session.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Status.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Teste.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Veiculo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\DataService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\CadastreSe.xaml.cs">
+      <DependentUpon>CadastreSe.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Chat.xaml.cs">
+      <DependentUpon>Chat.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ClientePF_Cadastro.xaml.cs">
+      <DependentUpon>ClientePF_Cadastro.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\EsqueceuEmail.xaml.cs">
+      <DependentUpon>EsqueceuEmail.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\EsqueceuSenha.xaml.cs">
+      <DependentUpon>EsqueceuSenha.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgAcompanhaColeta.xaml.cs">
+      <DependentUpon>LgAcompanhaColeta.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgCartaoCredito.xaml.cs">
+      <DependentUpon>LgCartaoCredito.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgChat.xaml.cs">
+      <DependentUpon>LgChat.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgColetas.xaml.cs">
+      <DependentUpon>LgColetas.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgDadosBancarios.xaml.cs">
+      <DependentUpon>LgDadosBancarios.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgHome.xaml.cs">
+      <DependentUpon>LgHome.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgMinhaContaa.xaml.cs">
+      <DependentUpon>LgMinhaContaa.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgOrcamentos.xaml.cs">
+      <DependentUpon>LgOrcamentos.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgPesquisar.xaml.cs">
+      <DependentUpon>LgPesquisar.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\LgVeiculos.xaml.cs">
+      <DependentUpon>LgVeiculos.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Motorista_Cadastro.xaml.cs">
+      <DependentUpon>Motorista_Cadastro.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ConhecerApp.xaml.cs">
+      <DependentUpon>ConhecerApp.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\PaginaInicial.xaml.cs">
+      <DependentUpon>PaginaInicial.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\PaginaInicial.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ConhecerApp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\CadastreSe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\EsqueceuSenha.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\EsqueceuEmail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Motorista_Cadastro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ClientePF_Cadastro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Chat.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgHome.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgColetas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgPesquisar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgOrcamentos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgVeiculos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Page1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgMinhaContaa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgDadosBancarios.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgCartaoCredito.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgAcompanhaColeta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\LgChat.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

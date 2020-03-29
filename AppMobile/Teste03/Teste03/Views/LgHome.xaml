@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Teste03.Views.LgHome">
+
+    <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="{StaticResource Default}" >
+
+        <Grid RowSpacing="-1" ColumnSpacing="0" >
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition  Width="72" />
+                <ColumnDefinition  Width="72" />
+                <ColumnDefinition  Width="72" />
+                <ColumnDefinition  Width="72" />
+                <ColumnDefinition  Width="72" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions >
+                <RowDefinition Height="65"  />
+                <RowDefinition Height="458" />
+                <RowDefinition Height="50"  />
+            </Grid.RowDefinitions>
+
+            <!-- Me Transporta -->
+            <StackLayout  Orientation="Horizontal"           HeightRequest="90"  Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="5"
+                          HorizontalOptions="FillAndExpand"  VerticalOptions="Center" BackgroundColor="{StaticResource Blue}" Spacing="-15"   >
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition  Width="72" />
+                        <ColumnDefinition  Width="72" />
+                        <ColumnDefinition  Width="72" />
+                        <ColumnDefinition  Width="52" />
+                        <ColumnDefinition  Width="28" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="MeTransporta" TextColor="{StaticResource WhiteBtn}" FontSize="19" WidthRequest="100"
+                           VerticalTextAlignment="Center"  HorizontalTextAlignment="End"  VerticalOptions="Center"
+                           Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" />
+
+                    <Image Source="moving.png" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="33" WidthRequest="33"
+                           Grid.Column="3" Grid.Row="0"  />
+
+                </Grid>
+
+            </StackLayout>
+
+            <StackLayout Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5" Margin="20"  HorizontalOptions="Center" >
+
+                <!--  Título  -->
+                <StackLayout  HeightRequest="40" HorizontalOptions="Center" WidthRequest="300" >
+
+                    <Label Text="HOME"  FontSize="16" FontAttributes="Bold" TextColor="{StaticResource Blue}" 
+                           HorizontalTextAlignment="Center"  VerticalTextAlignment="Center"    />
+                    
+                </StackLayout>
+
+                <!--  CLIENTE  -->
+                <StackLayout x:Name="slCliente" IsVisible="False" >
+
+                    <!-- Perfil Cliente -->
+                    <Label Text="Perfil Cliente" FontSize="12" FontAttributes="Bold" VerticalOptions="Start" HorizontalOptions="Center" />
+
+                    <Label x:Name="lbBemVindoCliente" FontSize="13" VerticalOptions="Start" HorizontalOptions="Center" />
+
+                    <Grid>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition  Width="5"  />
+                            <ColumnDefinition  Width="300" />
+                            <ColumnDefinition  Width="5"  />
+                        </Grid.ColumnDefinitions>
+
+                        <Grid.RowDefinitions >
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="20" />
+                        </Grid.RowDefinitions>
+                   
+                    
+                        <!-- Notifica orçamento -->
+
+                        <!-- Notificações -->
+                        <Label x:Name="lbNotifica" Text="Notificações" FontSize="14" VerticalOptions="Center" HorizontalOptions="Start"
+                               FontAttributes="Bold" Grid.Column="1" Grid.Row="0" />
+
+
+                        <StackLayout BackgroundColor="{StaticResource WhiteBtn}" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2">
+                            
+                            <!-- Descrição -->
+                            <Label x:Name="lbNotifica_"  FontSize="13" VerticalOptions="Center" HorizontalOptions="Start" IsVisible="False"
+                                    HeightRequest="60" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"
+                                   TextColor="{StaticResource Red}" WidthRequest="300" >
+
+                                <Label.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="VerificaOrcamentos" NumberOfTapsRequired="1" />
+                                </Label.GestureRecognizers>
+
+                            </Label>
+
+                        </StackLayout>
+                            
+                        <!-- Inicio -->
+                        <Label x:Name="lbNotifica__"  FontSize="13" VerticalOptions="Center" HorizontalOptions="Start" IsVisible="False"
+                                    HeightRequest="40" VerticalTextAlignment="Center"  Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" WidthRequest="300" />
+
+
+                        <!-- Notifica coleta -->   
+                        <Label x:Name="lbNotificacoes" Text="Coletas" FontSize="14" VerticalOptions="Center" HorizontalOptions="Start"
+                               FontAttributes="Bold" Grid.Column="1" Grid.Row="3"  />
+
+                        <!-- Acompanhar coleta -->
+                        <StackLayout x:Name="stColeta"  BackgroundColor="{StaticResource WhiteBtn}" Grid.Column="1" Grid.Row="4" 
+                                     Grid.RowSpan="2"  IsVisible="False" >
+                            
+                            <Label x:Name="lbNotificaColeta_"  FontSize="13" VerticalOptions="Center" HorizontalOptions="Start" 
+                                   HeightRequest="60" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"
+                                   TextColor="{StaticResource GreenBtn}" WidthRequest="300"  >
+
+                                <Label.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="AcompanhaColeta" NumberOfTapsRequired="1" />
+                                </Label.GestureRecognizers>
+                                
+                            </Label>
+
+                        </StackLayout>
+                            
+                        <Label x:Name="lbNotificaColeta__"  FontSize="13" VerticalOptions="Start" HorizontalOptions="Start" IsVisible="False"
+                               HeightRequest="60" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" 
+                               Grid.Column="1" Grid.Row="4" Grid.RowSpan="2" WidthRequest="300"   />
+
+                            
+                        
+                        <!-- Em caso de dúvidas -->
+                        <Label x:Name="lblContato" Text="Em caso de dúvidas, entre em contato conosco!"  IsVisible="True"
+                               FontSize="12" VerticalOptions="Center" HorizontalOptions="Center" FontAttributes="Bold"
+                               HeightRequest="40" VerticalTextAlignment="End" Grid.Column="1" Grid.Row="8"   />
+
+                        <!-- E-mail -->
+                        <StackLayout Orientation="Horizontal"  Grid.Column="1" Grid.Row="9" HorizontalOptions="Center"  >
+
+                            <Grid>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition  Width="22" />
+                                    <ColumnDefinition  Width="52" />
+                                    <ColumnDefinition  Width="72" />
+                                    <ColumnDefinition  Width="72" />
+                                    <ColumnDefinition  Width="72" />
+                                    <ColumnDefinition  Width="30" />
+                                </Grid.ColumnDefinitions>
+
+                                <Image Source="email.png" VerticalOptions="End" HorizontalOptions="CenterAndExpand" HeightRequest="32" WidthRequest="32"
+                                        />
+                                
+                                <Label x:Name="lbContato" Text="projetometransporta@gmail.com"  IsVisible="True"
+                                       Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="4" HorizontalOptions="Center"
+                                       FontSize="12"  VerticalOptions="Center" HeightRequest="40" VerticalTextAlignment="Center"  />
+
+                            </Grid>
+
+                        </StackLayout>
+
+                    </Grid>
+
+                </StackLayout>
+
+                <!--  MOTORISTA  -->
+                <StackLayout x:Name="slMotorista" IsVisible="False" >
+
+                    <Label Text="Perfil Motorista" FontSize="14" FontAttributes="Bold" VerticalOptions="Start" HorizontalOptions="Center" />
+
+                    <Label x:Name="lbBemVindoMotorista" Text="" FontSize="14" VerticalOptions="Start" HorizontalOptions="Center" />
+
+                    <Grid x:Name="gridMotorista">
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition  Width="5"  />
+                            <ColumnDefinition  Width="300" />
+                            <ColumnDefinition  Width="5"  />
+                        </Grid.ColumnDefinitions>
+
+                        <Grid.RowDefinitions >
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="20" />
+                        </Grid.RowDefinitions>
+
+
+                        <!-- Notifica coletas -->
+
+                        <!-- Notificações -->
+                        <Label x:Name="lbNotifica_Moto" Text="Notificações" FontSize="14" VerticalOptions="Center" HorizontalOptions="Start"
+                               FontAttributes="Bold" Grid.Column="1" Grid.Row="0" IsVisible="true" />
+
+
+                        <StackLayout BackgroundColor="{StaticResource WhiteBtn}" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" IsVisible="True">
+
+                            <!-- Descrição -->
+                            <Label x:Name="lblNotifica_Moto"  FontSize="13" VerticalOptions="Center" HorizontalOptions="Start" IsVisible="False"
+                                    HeightRequest="60" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"
+                                   TextColor="{StaticResource Red}" WidthRequest="300" >
+
+                                <Label.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="VerificaColeta" NumberOfTapsRequired="1" />
+                                </Label.GestureRecognizers>
+
+                            </Label>
+
+                        </StackLayout>
+
+                        <!-- Inicio -->
+                        <Label x:Name="lbNotifica__Moto"  FontSize="13" VerticalOptions="Center" HorizontalOptions="Center" IsVisible="False"
+                               HeightRequest="40" VerticalTextAlignment="Center"  HorizontalTextAlignment="Center"
+                               Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" WidthRequest="300" />
+
+
+                        <!-- Notifica orçamento -->
+                        <Label x:Name="lbNotificacoes_Moto" Text="Orçamentos realizados" FontSize="14" VerticalOptions="Center" HorizontalOptions="Start"
+                               FontAttributes="Bold" Grid.Column="1" Grid.Row="3"  />
+
+                        <!-- Orçamento -->
+                        <StackLayout x:Name="stColeta_Moto"  BackgroundColor="{StaticResource WhiteBtn}" Grid.Column="1" Grid.Row="4" 
+                                     Grid.RowSpan="2"  IsVisible="False" >
+
+                            <Label x:Name="lbNotificaColeta_Moto"  FontSize="13" VerticalOptions="Center" HorizontalOptions="Start" 
+                                   HeightRequest="60" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" IsVisible="false"
+                                   TextColor="{StaticResource Red}" WidthRequest="300"  >
+
+                                <Label.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="VerificaColeta" NumberOfTapsRequired="1" />
+                                </Label.GestureRecognizers>
+
+                            </Label>
+
+                            <Label x:Name="lbNotificaColeta_Moto_"  FontSize="13" VerticalOptions="Center" HorizontalOptions="Start" 
+                                   HeightRequest="60" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"  WidthRequest="300"  />
+
+                        </StackLayout>
+
+                        <Label x:Name="lbNotificaColeta__Moto"  FontSize="13" VerticalOptions="Start" HorizontalOptions="Start" IsVisible="False"
+                               HeightRequest="60" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" 
+                               Grid.Column="1" Grid.Row="4" Grid.RowSpan="2" WidthRequest="300"   />
+
+
+                        <!-- Em caso de dúvidas -->
+                        <Label x:Name="lblContato_M" Text="Em caso de dúvidas, entre em contato conosco!"  IsVisible="True"
+                               FontSize="12" VerticalOptions="Center" HorizontalOptions="Center" FontAttributes="Bold"
+                               HeightRequest="40" VerticalTextAlignment="End" Grid.Column="1" Grid.Row="8"   />
+
+                        <!-- E-mail -->
+                        <StackLayout Orientation="Horizontal"  Grid.Column="1" Grid.Row="9" HorizontalOptions="Center"  >
+
+                            <Grid>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition  Width="22" />
+                                    <ColumnDefinition  Width="52" />
+                                    <ColumnDefinition  Width="72" />
+                                    <ColumnDefinition  Width="72" />
+                                    <ColumnDefinition  Width="72" />
+                                    <ColumnDefinition  Width="30" />
+                                </Grid.ColumnDefinitions>
+
+                                <Image Source="email.png" VerticalOptions="End" HorizontalOptions="CenterAndExpand" HeightRequest="32" WidthRequest="32"
+                                        />
+
+                                <Label x:Name="lbContato_C" Text="projetometransporta@gmail.com"  IsVisible="True"
+                                       Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="4" HorizontalOptions="Center"
+                                       FontSize="12"  VerticalOptions="Center" HeightRequest="40" VerticalTextAlignment="Center"  />
+
+                            </Grid>
+
+                        </StackLayout>
+
+                        <!-- E-mail - ->
+                        <Label x:Name="lbContato_M" Text="projetometransporta@gmail.com"  IsVisible="True"
+                               FontSize="12" VerticalOptions="Center" HorizontalOptions="Center" 
+                               HeightRequest="40" VerticalTextAlignment="Start" Grid.Column="1" Grid.Row="9"   /> -->
+
+                    </Grid>
+
+                </StackLayout>
+
+            </StackLayout>
+
+            
+            <!-- HOME -->
+            <StackLayout Grid.Row="2"  Grid.Column="0" Spacing="-3" >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnHome_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="home2.png"    VerticalOptions="End"     HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"   WidthRequest="26"  />
+
+                <Label Text="Página Inicial" FontSize="10"  FontAttributes="Bold"      TextColor="{StaticResource Blue}"  
+                       VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center"  />
+
+            </StackLayout>
+
+            <!-- COLETAS -->
+            <StackLayout Grid.Row="2"  Grid.Column="1" Spacing="-3"  >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnColetas_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="car.png"     VerticalOptions="End"  HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"   WidthRequest="26"   />
+
+                <Label Text="Coletas" FontSize="10" VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+
+            <!-- PESQUISAR -->
+            <StackLayout Grid.Row="2"  Grid.Column="2" Spacing="-3" IsVisible="False"  >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnPesquisar_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="pesquisar.png"     VerticalOptions="End"  HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"   WidthRequest="26"   />
+
+                <Label Text="Pesquisar" FontSize="10" VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+
+            <!-- CHAT -->
+            <StackLayout Grid.Row="2"  Grid.Column="2" Spacing="-3"  >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnChat_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="chat.png"     VerticalOptions="Center"  HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"   WidthRequest="26"   />
+
+                <Label Text="Chat" FontSize="10" VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+
+            <!-- ORÇAMENTOS -->
+            <StackLayout Grid.Row="2"  Grid.Column="3"  Spacing="-3" >
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnOrcamentos_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="orcamentos.png"    VerticalOptions="End"     HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"  WidthRequest="26"   />
+
+                <Label Text="Orçamentos" FontSize="10" VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+
+            <!-- MINHA CONTA -->
+            <StackLayout Grid.Row="2"  Grid.Column="4"  Spacing="-3">
+
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="BtnMinhaConta_Clicked" NumberOfTapsRequired="1" />
+                </StackLayout.GestureRecognizers>
+
+                <Image Source="minhaconta.png"  VerticalOptions="End"  HorizontalOptions="CenterAndExpand"
+                       HeightRequest="26"    WidthRequest="26"   />
+
+                <Label Text="MinhaConta"   FontSize="10"      
+                       VerticalOptions="StartAndExpand"  HorizontalTextAlignment="Center"     />
+
+            </StackLayout>
+
+        </Grid>
+
+    </AbsoluteLayout>
+
+</ContentPage>
